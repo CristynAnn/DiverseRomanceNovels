@@ -16,3 +16,8 @@ Included files are:
 5- Ingest, Transformation, Licensing, and Preservation Policies that govern the data collection --> DiverseRomanceNovels/data-governance
 
 6- Curated Datasets --> DiverseRomanceNovels/Datasets/[datasetname] 
+
+
+For the purposes of the assignment for UW LIS 546A (Advanced Topics in Data Curation) items 1-5 in this repository consitute my written report and 
+
+consequently stored together in a "Written Report" file as well (DiverseRomanceNovels/written-report)
