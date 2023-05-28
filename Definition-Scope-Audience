@@ -1,0 +1,15 @@
+Group Name: Diverse Romance Novels
+
+Group Members: Cristyn Filla
+
+Topic of Curation Protocol: Diverse romance novels in English
+
+Target Audience: US romance readers 
+
+Statement of Goals: 
+
+	The goal of this project is to create a curated database on GitHub of diverse romance novels in English. There is limited to no datasets on common open data repositories or GitHub for this type of data. I would like to curate and develop a protocol for this data so that it is more accessible to romance readers trying to navigate the overly white cis romance novel market to find diverse titles. I plan to scrape the GoodReads list linked in the relevant data to obtain the data for this project. There are a number of guides and scripts written for how to perform this process in Python. 
+	I would like to learn more about data curation with book data as well as how to scrape websites for data to forward data collection/management work. 
+
+Link to Relevant Data: https://www.goodreads.com/shelf/show/diverse-romance
+
