@@ -7,7 +7,7 @@ Included files are:
 
 1- Protocol/project definition, scope, and audience --> DiverseRomanceNovels/definition-scope-audience
 
-2- User stories that define stakeholders for the repository --> DiverseRomanceNovels/user-stories
+2- User stories that define stakeholders for the repository --> DiverseRomanceNovels/user-stories.pdf
 
 3- Metadata needs, and the standard that will be applied to data --> DiverseRomanceNovels/metadata-and-standards
 
